@@ -1,8 +1,8 @@
 # Praktikum10
 
-Nama : Bayu Maulana Ayassy
+Nama  : Bayu Maulana Ayassy
 
-NIM : 312210166
+NIM   : 312210166
 
 Kelas : TI.22.A1
 
@@ -57,7 +57,8 @@ Untuk mengambil karakter terakhir, gunakan **index [-1]**. Sedangkan untuk menga
       print()
       
 #### Output Latihan 1
-![aa](https://user-images.githubusercontent.com/115678251/209620411-6237c41b-1c43-4a97-b7af-572dd5762611.png)
+![1](https://user-images.githubusercontent.com/115678251/209728549-66533d53-3cf7-44a5-92e4-402e97fb2913.png)
+
 
 
 ### Latihan 2
@@ -73,7 +74,8 @@ Untuk memasukkan variable ke dalam string, tambahkan kurung kurawal `{}` untuk m
       print(txt.format(umur))
       
 #### Output Latihan 2
-![bb](https://user-images.githubusercontent.com/115678251/209620425-9c92e049-873b-437a-8e36-612e26fc3968.png)
+![2](https://user-images.githubusercontent.com/115678251/209728614-8e1d57be-5b02-497e-9fef-3ee2bcd602bf.png)
+
 
 
 ## Terima Kasih
