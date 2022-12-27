@@ -57,8 +57,8 @@ Untuk mengambil karakter terakhir, gunakan **index [-1]**. Sedangkan untuk menga
       print()
       
 #### Output Latihan 1
+![aa](https://user-images.githubusercontent.com/115678251/209620411-6237c41b-1c43-4a97-b7af-572dd5762611.png)
 
-![Screenshot (417)](https://user-images.githubusercontent.com/115867244/209519851-cbb9c266-f540-4218-a5a8-5a58f95068a3.png)
 
 ### Latihan 2
 
@@ -73,7 +73,7 @@ Untuk memasukkan variable ke dalam string, tambahkan kurung kurawal `{}` untuk m
       print(txt.format(umur))
       
 #### Output Latihan 2
+![bb](https://user-images.githubusercontent.com/115678251/209620425-9c92e049-873b-437a-8e36-612e26fc3968.png)
 
-![Screenshot (416)](https://user-images.githubusercontent.com/115867244/209520154-94aaf4e4-80e1-4651-9a0e-6dcc31178d46.png)
 
 ## Terima Kasih
